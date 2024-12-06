@@ -5,3 +5,6 @@ def file_collect():
 
 def csv_file_Collect():
     pass
+
+def pdf_file_Collect():
+    pass
