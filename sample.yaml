@@ -1,0 +1,16 @@
+Employed:
+- true
+- false
+- true
+ID:
+- 101
+- 102
+- 103
+Name:
+- Keshav
+- Amit
+- Jay
+ismarried:
+- null
+- 'Yes'
+- 'No'
