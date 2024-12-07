@@ -1,0 +1,21 @@
+Products:
+- InStock: true
+  Price: 75000
+  ProductID: 101
+  ProductName: Laptop
+- InStock: true
+  Price: 30000
+  ProductID: 102
+  ProductName: Smartphone
+- InStock: false
+  Price: 2500
+  ProductID: 103
+  ProductName: Headphones
+- InStock: true
+  Price: 10000
+  ProductID: 104
+  ProductName: Smartwatch
+- InStock: false
+  Price: 20000
+  ProductID: 105
+  ProductName: Tablet
